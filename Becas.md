@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 1º I.Software
+title: Becas
 navigation: 2
 ---
 
@@ -24,4 +24,4 @@ Prácticas: acercan al estudiante al mercado laboral en distintas empresas e ins
 Cooperación: destinadas a los comprometidos con los más desfavorecidos. Voluntariado internacional.
 
 
-### Última actualización: 15/08/2020 20:05
+
