@@ -24,7 +24,5 @@ El Centro de Atención al Estudiante (CATUS) dispone de un espacio único donde 
     —Cooperación: destinadas a los comprometidos con los más desfavorecidos. Voluntariado internacional.
 
 
-Para más información, consulta la siguiente página:
-
-    https://www.us.es/estudiar/becas-ayudas/becas-ayudas
+Para más información, consulta el [Siguiente Enlace](https://www.us.es/estudiar/becas-ayudas/becas-ayudas)
 
