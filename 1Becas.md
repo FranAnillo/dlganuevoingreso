@@ -23,5 +23,5 @@ Prácticas: acercan al estudiante al mercado laboral en distintas empresas e ins
 
 Cooperación: destinadas a los comprometidos con los más desfavorecidos. Voluntariado internacional.
 
-
+https://www.us.es/estudiar/becas-ayudas/becas-ayudas
 
