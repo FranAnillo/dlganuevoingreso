@@ -4,33 +4,24 @@ title: 1º I.Software
 navigation: 2
 ---
 
-# Primero de Ingeniería de Software
+# Becas
+El Centro de Atención al Estudiante (CATUS) dispone de un espacio único donde el estudiante puede encontrar todas las ayudas. Además de las becas convocadas por instituciones externas, como el Ministerio de Educación, la Universidad de Sevilla dispone de un programa propio de becas y ayudas para sus estudiantes:
 
-## FP
-Publicado el 13/03/2020
+Ayudas al estudio: destinadas a sufragar gastos vinculados a los estudios.
 
-Como complemento a las medidas anunciadas por nuestra Universidad en relación con el COVID-19, os queremos informar sobre las actuaciones que vamos a tomar en el marco de la asignatura de Fundamentos de Programación durante el tiempo que se mantenga interrumpida la docencia presencial.
-Las tutorías se mantienen, aunque de forma no presencial. Los profesores seguimos a vuestra disposición a través del correo electrónico, los chats y los foros de la Enseñanza Virtual para resolver cualquier duda que tengáis.
-Las pruebas de evaluación, en particular el sexto cuestionario de teoría previsto para la penúltima semana de marzo, se posponen hasta nueva fecha que será anunciada en su momento. En caso de que el periodo se extienda más allá del día 30 de marzo, estudiaremos alternativas para las pruebas pendientes de la evaluación continua.
-La docencia se mantendrá de una forma no presencial. Los detalles concretos sobre la adaptación de la docencia a la modalidad no presencial en cada grupo os los dará vuestro profesor de teoría, que se pondrá en contacto directamente con vosotros.
-Para cualquier duda que tengáis en relación con esta situación excepcional, hemos creado un foro en el cual os animamos a participar.
+Asistenciales: se dirigen a estudiantes que se encuentran en una situación social o económica de especial necesidad.
 
-Publicado el 03/04/2020:
+Formación: se destinan a la formación de los estudiantes y egresados de la Universidad de Sevilla.
 
-Como seguramente ya sabréis, nuestra Universidad ha decidido mantener toda la docencia en formato online durante lo que resta del curso 2019/20. En nuestra asignatura ya hemos venido impartiendo las clases mediante videoconferencia desde que se decretó el estado de alarma, y lo continuaremos haciendo hasta final de curso.
-Os resumimos a continuación las medidas que estamos tomando para garantizar que la docencia de la asignatura se sigue impartiendo con normalidad:
-Las clases se imparten mediante videoconferencia a través de la herramienta Collaborate Ultra, integrada en la plataforma de Enseñanza Virtual, en su horario habitual. Además, las clases se están grabando, para que aquellos de vosotros que por cualquier causa no hayais podido conectaros a la hora de la clase podais verla más tarde.
-Las tutorías se mantienen a través del correo electrónico, los foros de la Enseñanza Virtual y también por videoconferencia, y os animamos a utilizarlas siempre que lo necesitéis.
-En cuanto a las pruebas de evaluación, desde el Rectorado de la Universidad nos han informado que en breve nos darán unas instrucciones sobre la forma de realizar la evaluación. En cuanto tengamos noticias os avisaremos por este mismo medio.
-Para cualquier duda que tengáis en relación con esta situación excepcional, hemos creado un foro en el cual os animamos a participar.
+Movilidad: dirigidas a fomentar la movilidad nacional e internacional de los estudiantes de la Universidad de Sevilla.
 
-## AE
-*Actualmente no disponemos de información sobre esta asignatura.*
-## ALN
-*Actualmente no disponemos de información sobre esta asignatura.*
-## E
-*Actualmente no disponemos de información sobre esta asignatura.*
-## EdC
-*Actualmente no disponemos de información sobre esta asignatura.*
+Culturales y deportivas: fomentan la colaboración en actividades culturales y deportivas.
 
-### Última actualización: 04/04/2020 11:00
+Premios y distinciones: se distingue a los mejores expedientes académicos de la Universidad de Sevilla. Se premia la excelencia.
+
+Prácticas: acercan al estudiante al mercado laboral en distintas empresas e instituciones.
+
+Cooperación: destinadas a los comprometidos con los más desfavorecidos. Voluntariado internacional.
+
+
+### Última actualización: 15/08/2020 20:05
