@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 4º I.Software
+title: Enseñanza Virtual
 navigation: 5
 ---
 
